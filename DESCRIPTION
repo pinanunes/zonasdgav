@@ -1,0 +1,8 @@
+Package: zonasdgav
+Title: Cria zonas de protecção e vigilância para suinos
+Version: 0.0.0.9000
+Authors@R: person("Telmo", "Nunes", email = "tnunes@fmv.ulisboa.pt", role = c("aut", "cre"))
+Description: Cria zonas de protecção e vigilância para suinos e identifica explorações nas respectivas zonas
+Depends: R (>= 3.1.1),RPostgreSQL,plotKML,rgeos
+License: GPL
+LazyData: true
